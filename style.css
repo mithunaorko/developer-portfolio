@@ -6,7 +6,7 @@ h1 {
   font-size: 50px;
 }
 h2 {
-  font-size: 40px;
+  font-size: 30px;
 }
 .orange-color {
   color: orange;
@@ -15,11 +15,12 @@ h2 {
   display: flex;
   margin-bottom: 150px;
 }
-.half-with {
-  width: 100%;
+.half-width {
+  width: 40%;
+  float: left;
   padding-left: 5%;
 }
-.half-with img {
+.half-width img {
   width: 80%;
 }
 .link-btn {
